@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    background-color: lightgrey;
+}
+header {
+    width: 100%;
+    margin: 0;
+    background-color: rgb(70, 68, 68);
+    height: 15vh;
+}
+div {
+    height: 70vh;
+    width: 70vw;
+    background-color: whitesmoke;
+    margin: 0 15%;
+}
+
+footer {
+    margin: 0 15%;
+    background-color: rgb(29, 26, 26);
+    height: 15vh;
+}

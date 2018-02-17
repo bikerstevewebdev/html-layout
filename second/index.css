@@ -1,0 +1,61 @@
+.objsDiv {
+    border: black solid 2px;
+    margin: 15px;
+    padding: 3px;
+    height: 190px;
+}
+
+.objsDiv div {
+    display: inline-block;
+    margin: auto 20px;
+}
+
+div .purpRec{
+    background-color: rgb(135, 22, 158);
+    width: 3%;
+    height: 70%;
+    margin-left: 4px;
+}
+
+div .greenRec {
+    background-color: green;
+    width: 35%;
+    height: 94%;
+    margin-top: 6px;
+}
+
+.blueCirc {
+    background-color: rgba(77, 196, 252, 0.795);
+    height: 94%;
+    width: 190px;
+    border-radius: 50%;
+}
+
+.postItDivCont {
+    padding: 1%;
+    border: 3px dotted black;
+    height: 210px;
+    margin: 15px;
+}
+
+.postItDiv {
+    height: 75%;
+    background-color: rgba(250, 255, 173, 0.884);
+    margin: 20px;
+    box-shadow: 5px 5px rgba(22, 21, 21, 0.712);
+}
+
+.text-div {
+    height: 240px;
+    border: 1.5px lightgrey solid;
+    margin: 15px 25%;
+    width: 50vw;
+    box-shadow: 3px 3px rgba(128, 128, 128, 0.767);
+}
+
+div h2 {
+    margin: 90px 110px 110px 110px;
+    text-align: center;
+    font-size: 1.5em;
+    letter-spacing: 5px;
+}

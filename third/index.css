@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+}
+header {
+    height: 12vh;
+    background-color: lightgray;
+    padding: 10px 20px;
+}
+.blueSqr {
+    background-color: rgba(0, 119, 255, 0.733);
+    height: 90px;
+    width: 90px;
+}
+main {
+    height: 25vh;
+}
+main p {
+    padding: 50px;
+    font-size: 1.5em;
+}
+.wrapper {
+    display: grid;
+    grid-auto-rows: 14.25vh;
+}
+.blueRow {
+    background-color: rgba(0, 119, 255, 0.733);
+}
+.tealRow {
+    background-color: rgb(24, 240, 240);
+}
+.greenRow {
+    background-color: rgb(150, 240, 138);
+}
+.yllwRow {
+    background-color: rgb(230, 230, 66);
+}
